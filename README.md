@@ -6,7 +6,7 @@ A clean, interactive weather dashboard web app built with HTML, CSS, and JavaScr
 
 ##  Live Demo
 
-[Visit the app here](https://weather-dashboard-app-wesal.netlify.app/)
+[Visit the app here](https://weather-dashboard-wesal.netlify.app/)
 
 ---
 
